@@ -1,5 +1,3 @@
-![](tenor.gif)
-
 hi, i will teach AI how to be depressed. thank you :3
 
 <!---
