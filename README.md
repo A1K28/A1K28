@@ -1,4 +1,4 @@
-hi. thank you :3
+hi :3
 
 <!---
 A1K28/A1K28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
