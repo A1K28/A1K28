@@ -4,7 +4,7 @@
 * 💻 LinkedIn: https://www.linkedin.com/in/aleksandre-khorbaladze-a15a04169/
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1K28&count_private=true&theme=material-palenight&hide=prs,issues,contribs&show_icons=true">
+    <a href="https://github.com/A1K28"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=A1K28&theme=dracula&hide_border=true"></a>
 </p>
 
 <!---
