@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @A1K28
+* 👋 Hi, I’m Alex
 * 🌱 I’m a back-end software engineer (Java, Python)
 * 💌 you can reach me at aleksandrekhorbaladze@gmail.com
 * 💻 LinkedIn: https://www.linkedin.com/in/aleksandre-khorbaladze-a15a04169/
