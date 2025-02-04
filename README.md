@@ -1,5 +1,5 @@
-<p align="center">👋 Hi, I’m Alex</p>
-<p align="center">🌱 A passionate software engineer</p>
+<h3 align="center">👋 Hi, I’m Alex</h3>
+<h4 align="center">🌱 A passionate software engineer</h4>
 <p align="center">💻 LinkedIn: https://www.linkedin.com/in/aleksandre-khorbaladze-a15a04169/</p>
 
 <p align="center">
